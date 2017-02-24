@@ -1,4 +1,4 @@
-# Aggregatting deep features for visually similar image search
+# Aggregating deep features for visually similar image search
 
 Network used: VGG16  
 Layer: after pool5  
