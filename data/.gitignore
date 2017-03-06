@@ -1,0 +1,9 @@
+gt_files_170407/
+
+image/
+
+landmark/
+
+*.tgz
+
+*.gz
