@@ -18,3 +18,6 @@ bash get_data.sh
 The ipython notebook `crow-full-size-paris-whiten-caffe contains the 
 final version of code. The features extracted from Paris dataset was
 pre-computed and included in the repository.
+
+This method was brought up by Yannis Kalantidis et al. in 
+Cross-dimensional Weighting for Aggregated Deep Convolutional Features
